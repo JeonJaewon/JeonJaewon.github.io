@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on everyday birthday</title>
-    <link>https://JewonJaewon.github.io/post/</link>
+    <link>https://JaewonJeon.github.io/post/</link>
     <description>Recent content in Posts on everyday birthday</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
@@ -10,15 +10,15 @@
     <webMaster>wksk3249@gmail.com (Jaewon Jeon)</webMaster>
     <lastBuildDate>Sat, 06 Jun 2020 01:49:56 +0900</lastBuildDate>
     
-	<atom:link href="https://JewonJaewon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://JaewonJeon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test2</title>
-      <link>https://JewonJaewon.github.io/post/test2/</link>
+      <link>https://JaewonJeon.github.io/post/test2/</link>
       <pubDate>Sat, 06 Jun 2020 01:49:56 +0900</pubDate>
       <author>wksk3249@gmail.com (Jaewon Jeon)</author>
-      <guid>https://JewonJaewon.github.io/post/test2/</guid>
+      <guid>https://JaewonJeon.github.io/post/test2/</guid>
       <description>제목 ㅇㅇ ㅁㅁㅁㅁ ㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴ
 ㅁㅁㅁㅁ ㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴ
 ㅁㅁㅁㅁ ㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴ
@@ -29,10 +29,10 @@
     
     <item>
       <title>Test</title>
-      <link>https://JewonJaewon.github.io/post/test/</link>
+      <link>https://JaewonJeon.github.io/post/test/</link>
       <pubDate>Sat, 06 Jun 2020 01:28:17 +0900</pubDate>
       <author>wksk3249@gmail.com (Jaewon Jeon)</author>
-      <guid>https://JewonJaewon.github.io/post/test/</guid>
+      <guid>https://JaewonJeon.github.io/post/test/</guid>
       <description>제목? asd a b asd ㅁㄴㅇㅁㄴㅇ</description>
     </item>
     
