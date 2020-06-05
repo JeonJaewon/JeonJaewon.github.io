@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on everyday birthday</title>
-    <link>https://JaewonJeon.github.io/tags/</link>
+    <link>https://jeonjaewon.github.io/tags/</link>
     <description>Recent content in Tags on everyday birthday</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
     <managingEditor>wksk3249@gmail.com (Jaewon Jeon)</managingEditor>
     <webMaster>wksk3249@gmail.com (Jaewon Jeon)</webMaster>
     
-	<atom:link href="https://JaewonJeon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jeonjaewon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
